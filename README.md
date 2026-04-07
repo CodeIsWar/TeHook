@@ -2,4 +2,4 @@
 
 The project is testing...
 
-Its source code will be uploaded soon.
+Do not use it in the production environment.
